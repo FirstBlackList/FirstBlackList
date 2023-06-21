@@ -1,7 +1,7 @@
 <body>
 <p align="center">
 <a href="" >
-    <img src="https://ie.wampi.ru/2023/06/21/title.png" width=100% height=100%>
+    <img src="https://ie.wampi.ru/2023/06/21/title113c371819d2ffe2a6.png" width=100% height=100%>
 
 ## <p align="center">**Инструменты которые я освоил во время обучения на образовательной платформе «Нетология» по специальности: «Тестировщик ПО»**:
 <p align="center">
