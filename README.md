@@ -82,10 +82,7 @@
 </p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-<<<<<<< HEAD
 
 <p align="right">
 <img  width="90" title="Jira" src="https://img.shields.io/static/v1?message=FirstBlackList&color=black&label=&labelColor=6ce50b&logo=github&logoColor=000000&style=plastic">
 </body>
-=======
->>>>>>> 5c241a8dddf6492f5ae20926ba86d4e884e97802
