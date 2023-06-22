@@ -16,8 +16,8 @@
    <img width="54" title="Git" src="https://img.shields.io/badge/-Git-white?logo=git&style=for-the-badge&logoColor=orange">
    <img width="76" title="GitHub" src="https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=GitHub&logoColor=black">
    <img width="77" title="Docker" src="https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=Docker&logoColor=blue">
-   <img width="45" title="Java" src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=Java">
-   <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-white.svg?style=for-the-badge&logo=intellij-idea&logoColor=purple">
+   <img width="62" title="Java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=black">
+   <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-white.svg?style=for-the-badge&logo=intellij-idea&logoColor=purple">
    <img width="76" title="Gradle" src="https://img.shields.io/badge/-Gradle-blue?logo=gradle&style=for-the-badge&logoColor=green">
    <img width="75" title="JUnit 5" src="https://img.shields.io/badge/-JUnit_5-white?logo=junit5&style=for-the-badge&logoColor=red">
    <img width="86" title="Selenium" src="https://img.shields.io/badge/-Selenium-blue?style=for-the-badge&logo=Selenium&logoColor=silver">
