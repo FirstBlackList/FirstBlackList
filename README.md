@@ -1,32 +1,35 @@
 <body>
+
 <p align="center">
 <a href="" >
     <img src="https://im.wampi.ru/2023/06/21/title11.png" width=100% height=100%>
 
-## <p align="center">**Инструменты которые я освоил во время обучения на образовательной платформе «Нетология» по специальности: «Тестировщик ПО»**:
+## <p align="center">**Инструменты которые я освоил во время обучения на образовательной платформе «Нетология» по специальности: [«Тестировщик ПО»](https://netology.ru/programs/qa?recommended_by=instant_search#/lessons):**
+
 <p align="center">
-   <img width="60" title="Jira" src="https://img.shields.io/badge/-Jira-32CD32?style=for-the-badge&logo=jira&logoColor=blue">
-   <img width="85" title="Postman" src="https://img.shields.io/badge/-Postman-6A54DF?style=for-the-badge&logo=postman&logoColor=orange">
-   <img width="87" title="Swagger" src="https://img.shields.io/badge/-Swagger-32CD32?style=for-the-badge&logo=Swagger&logoColor=white">
-   <img width="75" title="DevTools" src="https://img.shields.io/badge/-DevTools-6A54DF?logo=&style=for-the-badge&logoColor=white">
-   <img width="70" title="MySQL" src="https://img.shields.io/badge/-MySQL-32CD32?style=for-the-badge&logo=MySQL&logoColor=black">
-   <img width="103" title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-6A54DF?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-   <img width="54" title="Git" src="https://img.shields.io/badge/-Git-32CD32?logo=git&style=for-the-badge&logoColor=orange">
-   <img width="76" title="GitHub" src="https://img.shields.io/badge/-GitHub-6A54DF?style=for-the-badge&logo=GitHub&logoColor=black">
-   <img width="77" title="Docker" src="https://img.shields.io/badge/-Docker-32CD32?style=for-the-badge&logo=Docker&logoColor=blue">
-   <img width="45" title="Java" src="https://img.shields.io/badge/-Java-6A54DF?style=for-the-badge&logo=Java">
-   <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-32CD32.svg?style=for-the-badge&logo=intellij-idea&logoColor=purple">
-   <img width="76" title="Gradle" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge&logoColor=green">
-   <img width="75" title="JUnit 5" src="https://img.shields.io/badge/-JUnit_5-32CD32?logo=junit5&style=for-the-badge&logoColor=red">
-   <img width="86" title="Selenium" src="https://img.shields.io/badge/-Selenium-6A54DF?style=for-the-badge&logo=Selenium&logoColor=silver">
-   <img width="56" title="Allure" src="https://img.shields.io/badge/-Allure-32CD32?&style=for-the-badge">
-   <img width="89" title="Cucumber" src="https://img.shields.io/badge/-Cucumber-6A54DF?style=for-the-badge&logo=Cucumber&logoColor=white">
-   <img width="70" title="JMeter" src="https://img.shields.io/badge/-JMeter-6A54DF?style=for-the-badge&logo=apache&logoColor=violet">
+   <img  width="60" title="Jira" src="https://img.shields.io/badge/-Jira-white?style=for-the-badge&logo=jira&logoColor=blue">
+   <img width="85" title="Postman" src="https://img.shields.io/badge/-Postman-blue?style=for-the-badge&logo=postman&logoColor=orange">
+   <img width="87" title="Swagger" src="https://img.shields.io/badge/-Swagger-white?style=for-the-badge&logo=Swagger&logoColor=darkgreen">
+   <img width="75" title="DevTools" src="https://img.shields.io/badge/-DevTools-blue?logo=&style=for-the-badge&logoColor=white">
+   <img width="70" title="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=MySQL&logoColor=black">
+   <img width="103" title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+   <img width="54" title="Git" src="https://img.shields.io/badge/-Git-white?logo=git&style=for-the-badge&logoColor=orange">
+   <img width="76" title="GitHub" src="https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=GitHub&logoColor=black">
+   <img width="77" title="Docker" src="https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=Docker&logoColor=blue">
+   <img width="45" title="Java" src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=Java">
+   <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-white.svg?style=for-the-badge&logo=intellij-idea&logoColor=purple">
+   <img width="76" title="Gradle" src="https://img.shields.io/badge/-Gradle-blue?logo=gradle&style=for-the-badge&logoColor=green">
+   <img width="75" title="JUnit 5" src="https://img.shields.io/badge/-JUnit_5-white?logo=junit5&style=for-the-badge&logoColor=red">
+   <img width="86" title="Selenium" src="https://img.shields.io/badge/-Selenium-blue?style=for-the-badge&logo=Selenium&logoColor=silver">
+   <img width="56" title="Allure" src="https://img.shields.io/badge/-Allure-white?&style=for-the-badge">
+   <img width="89" title="Cucumber" src="https://img.shields.io/badge/-Cucumber-blue?style=for-the-badge&logo=Cucumber&logoColor=white">
+   <img width="70" title="JMeter" src="https://img.shields.io/badge/-JMeter-white?style=for-the-badge&logo=apache&logoColor=violet">
 </p>
 
+#
 
 
-## **Контакты**
+## **Мои контакты**
      
      
 <img src="https://ie.wampi.ru/2023/06/21/2363393-app-media-network-phone-social-whatsapp_85479.png" width=5% align="center"> **+7 (---) ...-..-..** <br>
