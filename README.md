@@ -78,7 +78,6 @@
 - ## [**Java для тестировщиков**](doc/certificate_Java.pdf)  
 
 - ## [**Автоматизированное тестирование**](doc/certificate_AutoTest.pdf)
-#
  
 
 </a>
