@@ -32,9 +32,9 @@
 ## **Мои контакты**
      
      
-<img src="https://ie.wampi.ru/2023/06/21/2363393-app-media-network-phone-social-whatsapp_85479.png" width=5% align="center"> **+7 (---) ...-..-..** <br>
+<img src="https://ie.wampi.ru/2023/06/21/2363393-app-media-network-phone-social-whatsapp_85479.png" width=4.6% align="center"> **+7 (---) ...-..-..** <br>
 <img src="https://im.wampi.ru/2023/06/21/email_26691.png" width=5% align="center"> **...** <br>
-<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=5% align="center"> **[@](https://t.me/@)** <br>
+<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=4.7% align="center"> **[@](https://t.me/@)** <br>
 
 # <p align="center">**Портфолио**
 
@@ -88,4 +88,6 @@
 
 <p align="right">
 <img  width="90" title="Jira" src="https://img.shields.io/static/v1?message=FirstBlackList&color=black&label=&labelColor=blue&logo=github&logoColor=000000&style=plastic">
+
+###### <p align="right" > «In God we trust All else we test...» </p>
 </body>
