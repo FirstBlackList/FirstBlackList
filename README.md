@@ -32,9 +32,9 @@
 ## **Мои контакты**
      
      
-<img src="https://ie.wampi.ru/2023/06/21/2363393-app-media-network-phone-social-whatsapp_85479.png" width=4.6% align="center"> **+7 (---) ...-..-..** <br>
-<img src="https://im.wampi.ru/2023/06/21/email_26691.png" width=5% align="center"> **...** <br>
-<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=4.7% align="center"> **[@](https://t.me/@)** <br>
+<img src="https://ic.wampi.ru/2023/08/13/free-icon-skype-1391054.png" width=4.5% align="center"> **[Skype](https://join.skype.com/invite/FVTec4toTBj4)** <br>
+<img src="https://im.wampi.ru/2023/06/21/email_26691.png" width=5% align="center"> **[Mail](https://firstblack@list.ru)** <br>
+<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=4.7% align="center"> **[Telegram](https://t.me/FirstBlackList)** <br>
 
 # <p align="center">**Портфолио**
 
