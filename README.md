@@ -33,8 +33,8 @@
      
      
 <img src="https://ic.wampi.ru/2023/08/13/free-icon-skype-1391054.png" width=4.5% align="center"> **[Skype](https://join.skype.com/invite/FVTec4toTBj4)** <br>
-<img src="https://im.wampi.ru/2023/06/21/email_26691.png" width=5% align="center"> **[Mail](https://firstblack@list.ru)** <br>
-<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=4.7% align="center"> **[Telegram](https://t.me/FirstBlackList)** <br>
+<img src="https://im.wampi.ru/2023/06/21/email_26691.png" width=5% align="center"> **[Mail](https://sergey.lebedev.qa@gmail.com)** <br>
+<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=4.7% align="center"> **[Telegram](https://t.me/sergeylebe_dev)** <br>
 
 # <p align="center">**Портфолио**
 
@@ -69,15 +69,15 @@
 - #### [**Данная ссылка на репозитории выполненных заданий по курсу с описанием поставленных задач, начиная с блока **Git** вплоть до дипломного проекта**](https://github.com/FirstBlackList?tab=repositories)
 #
 # <p align="center">**Сертификаты**
-- ## [**Тестировщик ПО**](doc/certificate_QA_Engeneer5.pdf)  
+- ## [**Тестировщик ПО**](https://docs.google.com/document/d/17nVVxlx0_3n5aQNGxdnNnXzpJ2p_869h9SVdBptNpUk/edit?usp=sharing)  
 
-- ## [**Ручное тестирование веб-приложений**](doc/certificate_Web1.pdf)  
+- ## [**Ручное тестирование веб-приложений**](https://docs.google.com/document/d/1eRpgu658bDIHP5h4p1k1gpn9AbUh3YcCHpXOZX6OJuw/edit?usp=sharing)  
 
-- ## [**Git — система контроля версий**](doc/certificate_Git2.pdf)
+- ## [**Git — система контроля версий**](https://docs.google.com/document/d/1imJOMwVVi-azZ0D_eA8Y_nnjbO1AUQMdEVeFjgbhnHE/edit?usp=sharing)
 
-- ## [**Java для тестировщиков**](doc/certificate_Java3.pdf)  
+- ## [**Java для тестировщиков**](https://docs.google.com/document/d/11fRmtUdWnW1GDdM0vlmNIAm4V1Vy71D0TpGwJ8ax9Zw/edit?usp=sharing)  
 
-- ## [**Автоматизированное тестирование**](doc/certificate_AutoTest4.pdf)
+- ## [**Автоматизированное тестирование**](https://docs.google.com/document/d/1MvjxIHkGCAF8j_yPYmvtWqoxj4vijmSAV5LjPiXd_Vw/edit?usp=sharing)
  
 
 </a>
@@ -88,5 +88,4 @@
 <p align="right">
 <img  width="90" title="Jira" src="https://img.shields.io/static/v1?message=FirstBlackList&color=black&label=&labelColor=blue&logo=github&logoColor=000000&style=plastic">
 
-###### <p align="right" > «In God we trust All else we test...» </p>
 </body>
