@@ -69,15 +69,15 @@
 - #### [**Данная ссылка на репозитории выполненных заданий по курсу с описанием поставленных задач, начиная с блока **Git** вплоть до дипломного проекта**](https://github.com/FirstBlackList?tab=repositories)
 #
 # <p align="center">**Сертификаты**
-- ## [**Тестировщик ПО**](doc/certificate_QA_Engeneer.pdf)  
+- ## [**Тестировщик ПО**](doc/certificate_QA_Engeneer5.pdf)  
 
-- ## [**Ручное тестирование веб-приложений**](doc/certificate_Web.pdf)  
+- ## [**Ручное тестирование веб-приложений**](doc/certificate_Web1.pdf)  
 
-- ## [**Git — система контроля версий**](doc/certificate_Git.pdf)
+- ## [**Git — система контроля версий**](doc/certificate_Git2.pdf)
 
-- ## [**Java для тестировщиков**](doc/certificate_Java.pdf)  
+- ## [**Java для тестировщиков**](doc/certificate_Java3.pdf)  
 
-- ## [**Автоматизированное тестирование**](doc/certificate_AutoTest.pdf)
+- ## [**Автоматизированное тестирование**](doc/certificate_AutoTest4.pdf)
  
 
 </a>
