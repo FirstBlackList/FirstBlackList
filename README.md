@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="" >
-    <img src="https://im.wampi.ru/2023/06/21/title11.png" width=100% height=100%>
+    <img src="https://im.wampi.ru/2023/09/14/github-header-image-1.png" width=100% height=100%>
 
-## <p align="center">**Инструменты которые я освоил во время обучения на образовательной платформе «Нетология» по специальности: [«Тестировщик ПО»](https://netology.ru/programs/qa?recommended_by=instant_search#/lessons):**
+## <p align="center">**Инструменты с которыми я работал:**
 
 <p align="center">
    <img  width="60" title="Jira" src="https://img.shields.io/badge/-Jira-white?style=for-the-badge&logo=jira&logoColor=blue">
@@ -38,9 +38,9 @@
 
 # <p align="center">**Портфолио**
 
-## <p align="center">Учебные проекты на курсе **«Тестировщик ПО»** 
+## <p align="center">Мои проекты по специальности **«Специалист по тестированию в области информационных технологий»** 
 
-- ## [Дипломная работа профессии "Тестировщик"](https://github.com/FirstBlackList/Diplom)
+- ## [Дипломная работа профессии «Тестировщик»](https://github.com/FirstBlackList/Diplom)
 
     **В рамках дипломной работы выполнено:**
 
@@ -55,7 +55,7 @@
 
 #
 
-- ## [Курсовая работа по модулю "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1lRuxbQgaArRCaigYaXEdnW6ZrIJq3iEaMrhk3-NjZTA/edit?usp=sharing)
+- ## [Курсовая работа по модулю «Ручное тестирование веб-приложений»](https://docs.google.com/spreadsheets/d/1lRuxbQgaArRCaigYaXEdnW6ZrIJq3iEaMrhk3-NjZTA/edit?usp=sharing)
 
     **В рамках курсовой по ручному тестированию сайта интернет-магазина **https://henderson.ru/**:**
 
