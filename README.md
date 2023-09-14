@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="" >
-    <img src="https://im.wampi.ru/2023/09/14/github-header-image-1.png" width=100% height=100%>
+    <img src="https://ic.wampi.ru/2023/09/14/github-header-image-1.png" width=100% height=100%>
 
 ## <p align="center">**Инструменты с которыми я работал:**
 
