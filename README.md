@@ -34,7 +34,7 @@
      
 <img src="https://ic.wampi.ru/2023/08/13/free-icon-skype-1391054.png" width=4.5% align="center"> **[Skype](https://join.skype.com/invite/FVTec4toTBj4)** <br>
 <img src="https://im.wampi.ru/2023/06/21/email_26691.png" width=5% align="center"> **[Mail](https://sergey.lebedev.qa@gmail.com)** <br>
-<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=4.7% align="center"> **[Telegram](https://t.me/sergeylebe_dev)** <br>
+<img src="https://ie.wampi.ru/2023/06/21/telegram_icon-icons.com_72055.png" width=4.7% align="center"> **[Telegram](https://t.me/SergeyAQA)** <br>
 
 # <p align="center">**Портфолио**
 
